@@ -151,3 +151,5 @@ index.html
     <header>
         <!-- 👥 Custom Vector Logo: Incorporates the requested two people outlines directly into header visual anchor -->
         <div class="brand-container" onclick="window.location.reload()">
+
+.
